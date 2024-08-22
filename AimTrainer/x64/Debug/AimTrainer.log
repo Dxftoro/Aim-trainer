@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(35,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(36,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(46,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(46,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(65,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(65,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(83,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(83,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(84,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(84,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programming\MyPrograms\AimTrainer\AimTrainer\Source.cpp(119,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AimTrainer.vcxproj -> D:\Programming\MyPrograms\AimTrainer\x64\Debug\AimTrainer.exe

@@ -1,5 +1,5 @@
 # Aim trainer
-Simple aim trainer that i made using C++ and OpenGL.
+Simple aim trainer that i made using C++ and OpenGL. May be useful for those who play first person shooters.
 
 The main objective of this training is aiming on the target that appears on the screen and clicking it. Aim and click as fast as you can. The game will calculate the average time spent catching the target. You need to catch it 50 times to complete.
 
